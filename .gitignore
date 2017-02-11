@@ -1,0 +1,6 @@
+# Stack Directory
+.stack-work
+
+# Emacs file
+.dir-locals
+*~
